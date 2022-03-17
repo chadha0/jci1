@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: grid;
+ }
+.container{
+    position: relative;   
+}
+.row my-5{
+    background-image: url(back.jpg);
+}
+.col-4{
+   
+    border: thick double  #535c68 ;
+
+}

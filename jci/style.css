@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+    background-color: #ffeaa7;
+}
+/*
+.container-fluid{
+    background-color: #0c2461;
+}
+.col-3{    
+}*/
+.item{
+    border: 1px solid #535c68;
+    
+}
+.img{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+
